@@ -3,8 +3,8 @@ This code will be helpful for those people who want to mail lots of professors f
 
 # Steps to create environment for email automations
 
-### Firstly, set your account 2 step verification ON.
+- #### Firstly, set your account 2 step verification ON.
 
-### Fork this directory and Add data in variables - email_sender, email_password, email_receiver, email_name, subject and body of the mail
+- #### Fork this directory and Add data in variables - email_sender, email_password, email_receiver, email_name, subject and body of the mail
 
-### Now, you are all set to send mail to a large number of people
+- #### Now, you are all set to send mail to a large number of people
